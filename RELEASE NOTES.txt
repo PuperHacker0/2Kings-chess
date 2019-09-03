@@ -1,0 +1,21 @@
+CREATED BY PUPERHACKER
+
+All versions of this program are free to use, modify and distribute, provided that this file is included as-is.
+
+
+v0.0 (03/09/19):
+	Features:
+		*> You can move pieces by clicking on them and then clicking the destination square.
+		*> The engine will notify you of illegal moves.
+		> The engine supports variable depth of search. It is set to 4 by default.
+		> The program evaluates positions based on the total value of material.
+
+		* -> Under development
+
+	> To run this program, you will need to have pygame installed.
+	> The program is still under development and the code has to be refactored.
+	> About the engine:
+		> It is not yet efficient enough.
+		> The engine does not support castlings/en-passant captures.
+		> While it will try to avoid checks, it is not yet guaranteed that it will always play legal moves.
+		> It is not aware of any openings, so it is likely that in the beginning it won't try to develop its pieces.
