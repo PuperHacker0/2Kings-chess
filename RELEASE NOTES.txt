@@ -13,7 +13,7 @@ v0.0 (03/09/19):
 		* -> Under development
 
 	> To run this program, you will need to have pygame installed.
-	> The program is still under development and the code has to be refactored.
+	> The program is still under development and the code has to be refactored. It has not been extensively tested and is thus error-prone.
 	> About the engine:
 		> It is not yet efficient enough.
 		> The engine does not support castlings/en-passant captures.
