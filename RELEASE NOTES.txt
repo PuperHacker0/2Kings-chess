@@ -18,4 +18,5 @@ v0.0 (03/09/19):
 		> It is not yet efficient enough, leading to relatively long(~60 seconds) wait times.
 		> The engine does not support castlings/en-passant captures.
 		> While it will try to avoid checks, it is not yet guaranteed that it will always play legal moves.
+		> It is not yet aware of a check-mate.
 		> It is not aware of any openings, so it is likely that in the beginning it won't try to develop its pieces.
