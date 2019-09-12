@@ -20,3 +20,12 @@ v0.0 (03/09/19):
 		> While it will try to avoid checks, it is not yet guaranteed that it will always play legal moves.
 		> It is not yet aware of a check-mate.
 		> It is not aware of any openings, so it is likely that in the beginning it won't try to develop its pieces.
+		
+v0.1 (12/09/19):
+	New features:
+		> The python code has been refactored.
+		*> The moves predicted by the engine are now stored in a "move buffer", so the engine won't need to run again if you play what it predicted.
+		> Fixed the issue of the application window not responding while the engine was running.
+		> Miscellaneous bug fixes/performance improvements.
+		
+		* -> Under development
