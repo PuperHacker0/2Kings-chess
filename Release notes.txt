@@ -26,6 +26,7 @@ v0.1 (12/09/19):
 		> The python code has been refactored.
 		*> The moves predicted by the engine are now stored in a "move buffer", so the engine won't need to run again if you play what it predicted.
 		> Fixed the issue of the application window not responding while the engine was running.
+		> When the square a piece is to move to has been selected, it is highlighted in yellow.
 		> Miscellaneous bug fixes/performance improvements.
 		
 		* -> Under development
